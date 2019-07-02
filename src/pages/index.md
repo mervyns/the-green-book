@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
 title: Your THC IQ
-image: /img/home-jumbotron.jpg
+image: /img/img_20190623_222824.jpg
 heading: What is THC-IQ
 subheading: THC Intel for High Society
 mainpitch:
-  title: THC
-  description: THC IQ is your leading source for news
-description: Stuff about THC
+  title: THC IQ
+  description: THC IQ is your leading source for cannabis related news and views
+description: Founded in 2019 to serve a growing demand for cannabis news and views
 intro:
   blurbs:
     - image: /img/coffee.png
