@@ -10,7 +10,7 @@ mainpitch:
 description: Founded in 2019 to serve a growing demand for cannabis news and views
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/img_20190622_105837.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -38,7 +38,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: THC IQ pages
-  description: We get stoned
+  description: >-
+    We aim to deliver breaking news and interesting views from the global
+    cannabis industry 
 main:
   heading: Great coffee with no compromises
   description: >
