@@ -22,4 +22,12 @@ I got into growing when one day me and a few mate acquired some clones from some
 
 From then I was hooked. I’d go to my local grow shops a lot and sit in there chatting to the guys that run these establishments and learn what I could. I’d buy books, DVD’s and all sorts to learn everything I could. All I wanted to do was grow plants indoors, the hype, the anticipation, the excitement was what was keeping me driven to succeed.
 
-I started selling weed and making money as best as I could. Back then I always made money here and there, as kids we all did a bit of wheeling an
+I started selling weed and making money as best as I could. Back then I always made money here and there, as kids we all did a bit of wheeling and dealing in everything. A couple of years down the line I finally saved up some deposit money for a small 2 bedroom end of terrace, I remember the day like yesterday I was in the house with the estate agent and went straight upstairs to look in the loft. It was huge! The only one thing stood out in my mind - yes this will do! “I’ll take it!”, “but sir don’t you want to see the rest of the house?” “Yeah ok then but I’ll take anyway! “\*laughs\*!
+
+
+
+ 
+
+
+
+Coming from a building background I knew what ever the state of the place I could sort it out, when my missus finally came round to see the house she cried. It was a dump but I assured her all would be ok and set about fixing up the place over the next few months, I renovated the house to a high standard it almost made
