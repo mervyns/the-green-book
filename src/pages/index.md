@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Your THC IQ
+title: THC-IQ
 image: /img/img_20190623_222824.jpg
 heading: What is THC-IQ
 subheading: THC Intel for High Society
@@ -11,12 +11,9 @@ description: Founded in 2019 to serve a growing demand for cannabis news and vie
 intro:
   blurbs:
     - image: /img/img_20190622_105837.jpg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        We aim to deliver breaking news and interesting views from the global
+        cannabis industry 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -38,9 +35,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: THC IQ pages
-  description: >-
-    We aim to deliver breaking news and interesting views from the global
-    cannabis industry 
+  description: Leading news and views from around the world
 main:
   heading: Great coffee with no compromises
   description: >
