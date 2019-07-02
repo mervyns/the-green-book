@@ -24,10 +24,12 @@ From then I was hooked. I’d go to my local grow shops a lot and sit in there c
 
 I started selling weed and making money as best as I could. Back then I always made money here and there, as kids we all did a bit of wheeling and dealing in everything. A couple of years down the line I finally saved up some deposit money for a small 2 bedroom end of terrace, I remember the day like yesterday I was in the house with the estate agent and went straight upstairs to look in the loft. It was huge! The only one thing stood out in my mind - yes this will do! “I’ll take it!”, “but sir don’t you want to see the rest of the house?” “Yeah ok then but I’ll take anyway! “\*laughs\*!
 
+Coming from a building background I knew what ever the state of the place I could sort it out, when my missus finally came round to see the house she cried. It was a dump but I assured her all would be ok and set about fixing up the place over the next few months, I renovated the house to a high standard it almost made me think I cant grow plants in this loft in this nice house but after a few months of moving in it was time. When the missus was out I’d be up there without her knowing and setting up the finest of all nft set ups, nutriculture would of been proud of me for this set up I had a long Nft reservoir 2.5 m long with 4 x 5ft trays coming onto one side of it. I filled them up with 150 northern light cuttings I occupied off of a good Moroccan friend I’d met through my dealings, so with 4 x 400w lights, intake, outtake and a carbon filter I set about my first proper indoor grow, it was magic, I never forget my friends face who would buy weed in bulk from us when he came over to buy the 1.5kg I’d just grown, took one look at it, pat me on the back and said “fuck mate you need more!” \*laughs\*
+
 
 
  
 
 
 
-Coming from a building background I knew what ever the state of the place I could sort it out, when my missus finally came round to see the house she cried. It was a dump but I assured her all would be ok and set about fixing up the place over the next few months, I renovated the house to a high standard it almost made
+It was like a scene from the film Blow, “More?” I said “OK more it is... Leave it with me!”.... and that was the beginnings of my growing career.
