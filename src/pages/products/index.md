@@ -8,17 +8,12 @@ intro:
   blurbs:
     - image: /img/img_20190621_202413.jpg
       text: Mango Haze x Pez
+    - image: /img/pink-hindu.jpg
+      text: Pink Hindu (Hindu Kush x Early Pink Kush)
     - image: /img/img_20190701_082415.jpg
       text: Candy Shop Auto
     - image: /img/img_20190623_212746.jpg
       text: Mango
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
   heading: Gallery
   description: |
     July 2019
