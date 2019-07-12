@@ -6,7 +6,7 @@ description: >-
   THC-IQ sat down with Panik from Real Gorilla Seeds to find out a little more
   about the man behind the mask! 
 featuredpost: true
-featuredimage: /img/gorilla-digital.jpg
+featuredimage: /img/rgsc.jpg
 tags:
   - thc
   - cbd
